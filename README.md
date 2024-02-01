@@ -1,1 +1,1 @@
-Recreated a Porche 911 page for a practice (not responsive).
+I recreate the Porsche 911 page to practice my skill in HTML and CSS (non-responsive)
